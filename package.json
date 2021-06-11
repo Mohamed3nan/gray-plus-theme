@@ -1,0 +1,80 @@
+{
+    "name": "gray-plus-theme",
+    "displayName": "Gray+ Theme",
+    "description": "A theme extension for Visual Studio Code based on Drak+ (default dark) Syntax but with Gray UI",
+    "publisher": "Anan",
+    "version": "1.0.0",
+    "license": "MIT",
+    "icon": "theme-icon.png",
+    "galleryBanner": {
+        "color": "#3c3f41",
+        "theme": "dark"
+      },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+		"theme",
+		"dark",
+        "gray",
+        "dark theme",
+		"gray theme",
+        "pycharm theme",
+        "webstorm",
+        "webstorm theme",
+		"jetbrains",
+        "jetbrains theme"
+	],
+    "homepage": "https://github.com/mohamed3nan/Gray-Plus-Theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mohamed3nan/Gray-Plus-Theme"
+    },
+    "bugs": {
+		"url": "https://github.com/mohamed3nan/Gray-Plus-Theme/issues"
+    },
+	"badges": [
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/version/Anan.Gray-Plus-Theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.Gray-Plus-Theme",
+			"description": "Version"
+		},
+        {
+			"url": "https://vsmarketplacebadge.apphb.com/installs-short/Anan.Gray-Plus-Theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.Gray-Plus-Theme",
+			"description": "Installs"
+		},
+        {
+			"url": "https://vsmarketplacebadge.apphb.com/downloads-short/Anan.Gray-Plus-Theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.Gray-Plus-Theme",
+			"description": "Downloads"
+		},
+        {
+			"url": "https://vsmarketplacebadge.apphb.com/rating-star/Anan.Gray-Plus-Theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.Gray-Plus-Theme",
+			"description": "Rating"
+		},
+        {
+			"url": "https://isitmaintained.com/badge/resolution/mohamed3nan/Gray-Plus-Theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.Gray-Plus-Theme",
+			"description": "Average time to resolve an issue"
+		},
+        {
+			"url": "https://isitmaintained.com/badge/open/mohamed3nan/Gray-Plus-Theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.Gray-Plus-Theme",
+			"description": "Percentage of issues still open"
+		}
+	],
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gray+",
+                "uiTheme": "vs-dark",
+                "path": "./themes/gray_plus.json"
+            }
+        ]
+    }
+}
