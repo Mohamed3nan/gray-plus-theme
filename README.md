@@ -52,6 +52,12 @@ or use the setting `editor.tokenColorCustomizations`
   }
 }
 ```
+### Enablement of semantic highlighting
+By default [Semantic Highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide#enablement-of-semantic-highlighting) value is true in this theme, you can add this snippet in your "settings.json" file to disable it:
+```json
+"editor.semanticHighlighting.enabled": false
+```
+
 Please check the official documentation,
 [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) and
 [Theme Color](https://code.visualstudio.com/docs/getstarted/themes), for more helpful information.
