@@ -3,7 +3,7 @@
     "displayName": "Gray+ Theme",
     "description": "A theme extension for Visual Studio Code based on Drak+ (default dark) Syntax but with Gray UI",
     "publisher": "Anan",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "icon": "theme-icon.png",
     "galleryBanner": {

@@ -4,8 +4,8 @@
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.gray-plus-theme.svg)](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.gray-plus-theme.svg)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/Anan.gray-plus-theme.svg)](https://vsmarketplacebadge.apphb.com/rating-star/Anan.gray-plus-theme.svg)
 
-[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/mohamed3nan/gray-plus-theme.svg)](http://isitmaintained.com/project/mohamed3nan/gray-plus-theme "Average time to resolve an issue")
-[![Percentage of issues still open](https://isitmaintained.com/badge/open/mohamed3nan/gray-plus-theme.svg)](http://isitmaintained.com/project/mohamed3nan/gray-plus-theme "Percentage of issues still open")
+[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/mohamed3nan/Gray-Plus-Theme.svg)](http://isitmaintained.com/project/mohamed3nan/gray-plus-theme "Average time to resolve an issue")
+[![Percentage of issues still open](https://isitmaintained.com/badge/open/mohamed3nan/Gray-Plus-Theme.svg)](http://isitmaintained.com/project/mohamed3nan/gray-plus-theme "Percentage of issues still open")
 
 
 ## Description
