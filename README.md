@@ -1,4 +1,5 @@
 # Gray+ Theme for Visual Studio Code
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mohamed3nan/gray-plus-theme)
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/Anan.gray-plus-theme.svg)](https://vsmarketplacebadge.apphb.com/version/Anan.gray-plus-theme.svg)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Anan.gray-plus-theme.svg)](https://vsmarketplacebadge.apphb.com/installs-short/Anan.gray-plus-theme.svg)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.gray-plus-theme.svg)](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.gray-plus-theme.svg)
